@@ -1,0 +1,2 @@
+[build]
+buildCommand = "chmod +x node_modules/.bin/hugo && yarn run build"
