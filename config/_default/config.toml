@@ -2,6 +2,7 @@ baseurl = "https://consumet.org"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
+ignoreErrors = ["error-remote-getjson"]
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
