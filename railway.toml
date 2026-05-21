@@ -1,2 +1,2 @@
 [build]
-buildCommand = "chmod +x node_modules/.bin/hugo && yarn run build"
+buildCommand = "chmod +x node_modules/.bin/hugo/hugo && yarn run build"
